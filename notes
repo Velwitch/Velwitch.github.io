@@ -1,0 +1,4 @@
+ https://www.youtube.com/watch?v=qYgogv4R8zg
+ npm run dev ---> to start server
+ tailwindcss.config.js content section
+content: ['./*.html']
